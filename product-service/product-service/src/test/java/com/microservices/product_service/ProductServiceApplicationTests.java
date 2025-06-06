@@ -1,6 +1,4 @@
 package com.microservices.product_service;
-
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.microservices.product_service.dto.ProductRequest;
